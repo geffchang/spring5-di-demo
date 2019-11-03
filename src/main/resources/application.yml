@@ -3,3 +3,10 @@ guru:
     username: jmsUsername
     password: jmsPassword
     url: jmsDbUrl
+
+---
+
+spring:  profiles: de
+guru:
+  jms:
+    username: deYamlUsername
